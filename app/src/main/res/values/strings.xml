@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="Portrait_of_a_Woman">Portrait of a Woman</string>
+    <string name="Madonna_and_Child_Enthroned_With_Four_Saints">Madonna and Child Enthroned with Four Saints</string>
+    <string name="Saint_James_Minor_1952_5_15">Saint James Minor</string>
+    <string name="maesta_madonna_and_child_with_four_angels_1961_9_77">Maestà (Madonna and Child with Four Angels)</string>
+    <string name="the_calling_of_the_apostles_peter_and_andrew">The Calling of the Apostles Peter and Andrew</string>
+    <string name="Enthroned_Madonna_and_Child">Enthroned Madonna and Child</string>
+    <string name="Madonna_and_Child_on_a_Curved_Throne">Madonna and Child on a Curved Throne</string>
+    <string name="The_Mourning_Madonna">The Mourning Madonna</string>
+    <string name="The_Mourning_Saint_John_the_Evangelist">The Mourning Saint John the Evangelist</string>
+    <string name="Saint_John_the_Evangelist">Saint John the Evangelist</string>
+    <string name="Madonna_and_Child_with_Saint_John_the_Baptist_Saint_Peter_and_Two_Angels">Madonna and Child with Saint John the Baptist, Saint Peter, and Two Angels</string>
+    <string name="Saint_John_the_Baptist_Saint_Peter_and_Two_Angels">Saint John the Baptist, Saint Peter, and Two Angels</string>
+    <string name="The_Nativity_with_the_Prophets_Isaiah_and_Ezekiel">The Nativity with the Prophets Isaiah and Ezekiel</string>
+
+</resources>
